@@ -1,11 +1,13 @@
 // Your web app's Firebase configuration (ENTER YOUR FIREBASE CONFIGURATION DETAILS)
 var firebaseConfig = {
-apiKey: "AIzaSyDy7v7xQhooj-PRIPwofhf1NliLq22j4z0",
-  authDomain: "vudeo-b7cfc.firebaseapp.com",
-  projectId: "vudeo-b7cfc",
-  storageBucket: "vudeo-b7cfc.appspot.com",
-  messagingSenderId: "196924786214",
-  appId: "1:196924786214:web:b2565066b0489ec31e08e7",
+apiKey: "AIzaSyBWLZ6D4RjdnwLxiSrQbIbJJ3VqbsDbth0",
+  authDomain: "blog-andre-c7dec.firebaseapp.com",
+  databaseURL: "https://blog-andre-c7dec-default-rtdb.firebaseio.com",
+  projectId: "blog-andre-c7dec",
+  storageBucket: "blog-andre-c7dec.appspot.com",
+  messagingSenderId: "145107204999",
+  appId: "1:145107204999:web:59c1a4e4c4438c39b2b122",
+  measurementId: "G-6KG5DR3SWH",
 };
 // Initialize Firebase
 firebase.initializeApp(firebaseConfig);
